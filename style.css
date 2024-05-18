@@ -1,0 +1,27 @@
+#message{
+    border: 2px solid gray;
+    width: 250px;
+    height: 60px;
+    background-color: aquamarine;
+}
+fieldset{
+    width: 290px;
+    border-color: black;
+    background-color: azure;
+    
+}
+.body{
+    border: 2px solid gray;
+    background-color: blanchedalmond;
+}
+.book{
+    border: 2px solid gray;
+    width: 160px;
+    background-color: rgb(137, 255, 119);
+}
+.size{
+    border: 2px solid gray;
+    width: 220px;
+    background-color: rgb(220, 240, 118);
+}
+
